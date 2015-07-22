@@ -1,0 +1,19 @@
+#tabledefinition{
+	width: 1000;
+
+	
+}
+#newID{
+	font-size: 25;
+	font-style:italic;
+	color: #660000;
+	font-style: bold;
+	font-family: 'Bookman Old Style';
+
+}
+#ID{
+	font-size: 30;
+	color: #ef1c1c;
+	font-family: 'Lucida Calligraphy';
+	font-style: italic;
+}
